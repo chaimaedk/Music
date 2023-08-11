@@ -1,7 +1,7 @@
 function Music() {
     return (
       <div>
-          Music
+          Musichuaza
       </div>
     );
   }
